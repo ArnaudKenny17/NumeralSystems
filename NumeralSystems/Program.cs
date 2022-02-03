@@ -10,7 +10,7 @@ namespace NumeralSystems
 
             void MainProgram()
             {
-                Console.WriteLine("Type any number in Decimal system:");
+                Console.WriteLine("Type any number:");
                 string input = Console.ReadLine();
                 try
                 {
